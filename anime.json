@@ -1,4 +1,4 @@
 {
-  "https://wallpapercave.com/wp/wp5179466.jpg": "anime, desktop",
-  "https://wallpapercave.com/wp/wp4335546.jpg": "anime, desktop, night, city"
+    "https://wallpapercave.com/wp/wp5179466.jpg": ["anime", "desktop"],
+    "https://wallpapercave.com/wp/wp4335546.jpg": ["anime", "desktop", "night", "city"]
 }
